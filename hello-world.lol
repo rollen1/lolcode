@@ -1,0 +1,5 @@
+HAI 1.2
+BTW Declaring string variable
+I HAS A WORD ITZ "HELLO WORLD"
+VISIBLE WORD
+KTHXBYE
